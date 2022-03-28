@@ -1,0 +1,6 @@
+
+Movies Report
+-------------
+Date: 2022-03-28 19:53:48.495335
+Movies seen in the last 30 days: 3
+Total minutes: 376
